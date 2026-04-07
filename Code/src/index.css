@@ -10,6 +10,7 @@
   --font-libre: "Libre Baskerville", serif;
   --font-georgia: "Georgia", serif;
   --font-zilla: "Zilla Slab", serif;
+  --breakpoint-xl: 90rem;
 }
 
 @keyframes slideIn {
